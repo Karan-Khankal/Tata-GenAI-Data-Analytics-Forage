@@ -99,7 +99,7 @@ This repository contains my completed work for the **Tata iQ GenAI-Powered Data 
 
 ## 📜 Certificate
 
-📄 **[View Certificate](./Certificate.pdf)**
+📄 **[View Certificate](./Certificate.pdf?raw=true)**
 
 *Click on Certificate.pdf to view the official completion certificate.*
 
