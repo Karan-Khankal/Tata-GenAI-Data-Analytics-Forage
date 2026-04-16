@@ -99,7 +99,11 @@ This repository contains my completed work for the **Tata iQ GenAI-Powered Data 
 
 ## 📜 Certificate
 
-![Completion Certificate](/Certificate.png)
+## 📜 Certificate
+
+📄 **[Click here to view my Completion Certificate](./Certificate.pdf)**
+
+*Certificate from Tata iQ GenAI-Powered Data Analytics Virtual Experience on Forage*
 
 ---
 
